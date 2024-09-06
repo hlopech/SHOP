@@ -22,4 +22,13 @@ This is a mobile online SHOP application built with Android, Kotlin, and Jetpack
 
 ## Screenshots
 
+<img src="https://github.com/user-attachments/assets/7d596232-dcdc-4417-b08e-b89f473b9a52" width="400" >
+
+<img src="https://github.com/user-attachments/assets/8728dbf0-5b5d-4f81-a703-9c76cc39283e" width="400" >
+
+<img src="https://github.com/user-attachments/assets/cc47dcc8-f2aa-4018-bc88-ea29d8dfae17" width="400" >
+
+<img src="https://github.com/user-attachments/assets/15b0be66-710f-4471-bda6-497f5101dba0" width="400" >
+
+<img src="https://github.com/user-attachments/assets/faf296a1-661d-4942-8922-f28ebab7ae49" width="400" >
 
